@@ -1,0 +1,18 @@
+// HolaMundo.cpp : Defines the entry point for the console application.
+// Autor: John Orozco
+// Fecha: 18/2/2014
+
+#include "stdafx.h"
+#include <iostream>
+#include "conio.h"
+
+using namespace std;
+
+
+int main() 
+{
+	cout <<"Still take you home \n";
+	cout <<"but I still take you home";
+    getch();
+    return 0;
+}
